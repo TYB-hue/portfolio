@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Onest&family=Poppins:wght@100;200;300;400;500&display=swap');
+ 
+body{
+   /* background-image: linear-gradient(to top, #f8ff, black );
+    background-size: cover;*/
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 54%, rgba(5,5,93,1) 87%, rgba(0,138,166,1) 100%);
+}
+
+
+  .buttonn{
+    background-color: rgba(67, 67, 68, 0.917);
+    color: rgb(117, 207, 255);
+  }
+.card{
+    
+        padding: 15px;
+        background-color: black;
+        
+     
+}
